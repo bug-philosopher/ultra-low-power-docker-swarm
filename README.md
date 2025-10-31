@@ -1,4 +1,4 @@
-# ultra-low-power-docker-swarm
+# Ultra Low Power Docker Swarm
 A high performance, energy efficient Docker Swarm cluster powered by ZimaBlade and ZimaBoard systems
 
 
